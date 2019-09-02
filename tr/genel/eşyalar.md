@@ -1,0 +1,2 @@
+# Meşale (torch)
+Süresi 10 dakikadır. Çok güçlü bir rüzgar belki söndürebilir. Silah olarak kulanılabilir. 1d6/Bludgeoning melee. Club'tan eslinlendim. Yandığı sırada da 1d4 fire hasarı verebilir. Bu durumda, karşıdakinin üstünde yanabilen (kumaş-kıyafet) gibi şeyler varsa kurtarma atışı yapılır. Aksi taktirde hedefin üzerindekiler tutuşur.
